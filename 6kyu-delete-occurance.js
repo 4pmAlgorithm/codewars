@@ -5,6 +5,9 @@
 
 
 
+
+
+
 //3 2022/04/24 1:03pm 
 function deleteNth(arr, n){
   let dict = {};
